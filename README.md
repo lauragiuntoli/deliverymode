@@ -1,5 +1,9 @@
 # Mode of delivery and postpartum positive dimensions of well-being
 
+[Data](ehps_Mode of delivery.csv) 
+[R script](ehps_Mode of delivery and postpartum positive dimensions of well-being.R)
+
+
 <dl>
 <dt>Background</dt>
 <dd>Psychological outcomes of mode of delivery were mainly studied in terms of depressive symptoms. Many of the studies lack information on positive dimensions of well-being such as life satisfaction, positive affect and flourishing. The aim of the present study was to compare the psychological outcomes of women after emergency Cesarean section (ECS), planned Cesarean section (PCS), instrumental vaginal delivery (IVD), medicalized vaginal delivery (MVD) and spontaneous vaginal delivery (SVD).</dd>
@@ -13,8 +17,3 @@
 <dt>Discussion</dt>
 <dd>Results emphasize the important role of positive dimensions of well-being in discriminating psychological outcomes of delivery mode. Indeed, ECS and IVD are associated to lower scores on well-being dimensions compared to PCS, MVD and SVD. No differences between mode of delivery were found on depressive symptoms scores suggesting that well-being measures are more sensitive in detecting postpartum psychological distress.</dd>
 </dl>
-
-
-[Data](ehps_Mode of delivery.csv) 
-
-[R script](ehps_Mode of delivery and postpartum positive dimensions of well-being.R)
