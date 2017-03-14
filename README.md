@@ -15,5 +15,5 @@
 </dl>
 
 
-[Data](docs/ehps_Mode of delivery.csv) 
+[Data](ehps_Mode of delivery.csv) 
 [R script](deliverymode/ehps_Mode of delivery and postpartum positive dimensions of well-being.R)
