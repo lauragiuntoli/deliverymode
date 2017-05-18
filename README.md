@@ -20,12 +20,12 @@
 
 <dt>Authors</dt>
  
-Laura Giuntoli, lauragiuntoli.pt@gmail.com
+<dd>Laura Giuntoli, lauragiuntoli.pt@gmail.com</dd>
 
-Massimo Nucci, massimo.nucci@unipd.it
+<dd>Massimo Nucci, massimo.nucci@unipd.it</dd>
 
-Giulio Vidotto, giulio.vidotto@unipd.it
+<dd>Giulio Vidotto, giulio.vidotto@unipd.it</dd>
 
-Department of General Psychology, University of Padua, Italy
+<dd>Department of General Psychology, University of Padua, Italy</dd>
 
 </dl>
