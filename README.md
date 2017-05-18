@@ -16,7 +16,7 @@
 
 <dt>Discussion</dt>
 <dd>Results emphasize the important role of positive dimensions of well-being in discriminating psychological outcomes of delivery mode. Indeed, ECS and IVD are associated to lower scores on well-being dimensions compared to PCS, MVD and SVD. No differences between mode of delivery were found on depressive symptoms scores suggesting that well-being measures are more sensitive in detecting postpartum psychological distress.</dd>
-</dl>
+
 
 <dt>Authors</dt>
  
@@ -32,3 +32,4 @@ Giulio Vidotto
 Department of General Psychology, University of Padua, Italy
 giulio.vidotto@unipd.it
 
+</dl>
